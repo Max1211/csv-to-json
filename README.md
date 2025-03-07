@@ -26,5 +26,5 @@ Just follow the prompts to enter your input file path. The script will generate 
 
 The tool produces a structured JSON file with standardized IP collections:
 
-![image](https://github.com/Max1211/Images/blob/main/ip-collection-import.png)]
-![image]([https://github.com/Max1211/Images/blob/main/ip-collection-import.png](https://github.com/Max1211/Images/blob/main/ip-collections.png)]
+![image](https://github.com/Max1211/Images/blob/main/ip-collection-import.png)
+![image](https://github.com/Max1211/Images/blob/main/ip-collections.png)
