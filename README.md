@@ -5,14 +5,13 @@ A simple tool to convert Excel (.xlsx/.xls) and CSV files to importable JSON for
 ## Usage
 
 ```bash
-python3 xlsx_to_ipc.py
+python3 csv-to-json.py
 ```
 
 Just follow the prompts to enter your input file path. The script will generate `ip_collections.json` in the same directory.
 
 ## Supported Formats
 
-- **Excel files**: IP addresses in the first two columns
 - **CSV files**: Format with columns for name, address-type, ip-addresses, ip-collections
 
 ## Supported IP Address Types
