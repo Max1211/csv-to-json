@@ -1,0 +1,12 @@
+name,address-type,ip-addresses,ip-collections
+Single-IPv4,IPv4,10.1.1.1,
+Multiple-IPv4,IPv4,10.2.2.2, 10.3.3.3, 10.4.4.4,
+
+Single-IPv4-Subnet,IPv4,10.5.5.0/24,
+Multiple-IPv4-Subnet,IPv4,10.6.6.0/24 10.6.7.0/24,
+
+Single-IPv4-Range,IPv4,10.8.8.1-10.8.8.99,
+Multiple-IPv4-Range,IPv4,10.8.8.1-10.8.8.99 10.9.9.1-10.9.9.99,
+
+Single-Mixed-IPv4,IPv4,10.10.10.10 10.11.11.0/24 10.12.12.1-10.12.12.99,
+Multiple-Mixed-IPv4,IPv4,10.10.10.10 10.11.11.11 10.12.12.0/24 10.12.13.0/24 10.12.12.1-10.12.12.99 10.13.13.1-10.13.13.99,
